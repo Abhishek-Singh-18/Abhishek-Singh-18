@@ -25,6 +25,8 @@ AWS | Docker | GIT
 ## GitHub
 I am actively building projects and collaborating on projects.
 ## Connect With Me
-Email: Abhishek184april@gmail.com | LinkedIn |Protfolio
+- Email: Abhishek184april@gmail.com 
+- LinkedIn: linkedin.com/in/abhishek-singh-38b2bb1b9 
+- Protfolio: protfolio-vfs2.vercel.app 
 
 
