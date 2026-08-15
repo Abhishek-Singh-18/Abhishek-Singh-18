@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi I'm Abhishek Singh
+Software Engineer|Java |Spring Boot |Spring AI |Spring Security |Full Stack
 
-<!--
-**Abhishek-Singh-18/Abhishek-Singh-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java Developer who enjoys building scalable, secure, and user-friendly applications.
+I have hands-on experience working with Java, Spring Boot, Spring Security, REST APIs, Hibernate, MySQL, Angular, React, Docker, and Keycloak. I enjoy solving real-world problems through clean and efficient code and continuously learning new technologies.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: MicroService & Cloud
+- 💬 Ask me about: Java, Spring Boot, RestAPI's
+- 📫 How to reach me: Abhishek184april@gmail.com
+## Tech Stack
+### Languages
+   Java| HTML |CSS |JS
+### Backend
+ SpringBoot | Spring Security | REST API | JWT
+### Frontend
+React | Tailwind CSS | Material UI
+### DataBase
+MySql | Redis | H2 db
+### Clouds
+AWS | Docker | GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+1. SyncTalk
+   A full-stack communication application built using
+## GitHub
+I am actively building projects and collaborating on projects.
+## Connect With Me
+Email: Abhishek184april@gmail.com | LinkedIn |Protfolio
+
+
